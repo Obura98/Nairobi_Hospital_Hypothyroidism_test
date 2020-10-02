@@ -21,14 +21,14 @@ Multivariate analysis
 Data Visualization
 Random Forest
 SVM
-#### Technologies 
+## Technologies 
 1. Python
 2. Numpy arrays
 3. Pandas, 
 4. jupyter
 5. sckit libraries
 
-####Needs of this project
+## Needs of this project
 
 Part 1: Decision trees:
 
@@ -40,7 +40,7 @@ Part 2: SVM:
 
 In this section, you may be required to clean the data a little bit so as to make sense of the features.
 
-Document what transformation you've done on the data.
+#### Document what transformation you've done on the data.
 
 Apply Polynomial, linear and rbf kernel function to build your SVM model and then evaluate their performance and pick the kernel that performs the best. Remember to tune your parameters to improve the performance of your model. To make your life easier, make sure to visualize the models you've created. Use any two features to build the models for this step.
 
@@ -50,11 +50,12 @@ After getting your best performing kernel, use this kernel together with your tu
 ## Getting Started
 Clone this repo (for help see this tutorial).
 
-Raw Data is being kept [[<a href="https://github.com/Obura98/Nairobi_Hospital_Hypothyroidism_test.git>Nairobi_Hospital_Hypothyroidism_test"</a>]](Repo folder containing raw data) within this repo.
+Raw Data is being kept <a href="https://github.com/Obura98/Nairobi_Hospital_Hypothyroidism_test.git>Nairobi_Hospital_Hypothyroidism_test"</a>(Repo folder containing raw data) within this repo.
 
 
 etc...
 
-Follow setup [instructions](Link to file) Featured Notebooks/Analysis/Deliverables Notebook/Markdown/Slide Deck Title Team Leads (Contacts) : [Obura98]([<a href="https://github.com/Obura98/bankaccountpredictionmodel.git>bankaccountpredictionmodel"])
+Follow setup [instructions](Link to file) Featured Notebooks/Analysis/Deliverables Notebook/Markdown/Slide Deck Title Team Leads (Contacts) : [Obura98](<a href="https://github.com/Obura98/bankaccountpredictionmodel.git>bankaccountpredictionmodel">Nairobi_Hospital_Hypothyroidism_test
+<a/>])
 
 Contact Feel free to contact team leads with any questions or if you are interested in contributing!
